@@ -1,5 +1,5 @@
 # Spotify Recommendation System
-!['Spotify Recommendation System'](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMHXQbfC7qAWzSrVUkGsNS01E6OIBkam4_QWbPaY7dYzSKR0KB2K6BqKxdUZIhExHPoJg&usqp=CAU)
+!['Spotify Recommendation System'](https://useinsider.com/assets/media/2021/05/recommendation-systems-feature.png)
 
 # Spotify Music Recommendation System
 
