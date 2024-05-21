@@ -1,8 +1,6 @@
 # Spotify Recommendation System
 !['Spotify Recommendation System'](https://useinsider.com/assets/media/2021/05/recommendation-systems-feature.png)
 
-# Spotify Music Recommendation System
-
 Welcome to the Spotify Music Recommendation System project! This repository contains the code and data for building a music recommendation system based on Spotify's song and artist features. The system aims to provide personalized song recommendations to users based on their listening history.
 
 ## Table of Contents
