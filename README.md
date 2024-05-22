@@ -46,5 +46,6 @@ The dataset includes the following columns:
 - If you have any questions, suggestions, or feedback, please feel free to reach out:
 - Email: riyadehmedov03@gmail.com (Riyad Ahmadov / Data Scientist)
 
-
+## APP in Hugging Face
+- [Recommendation System in Spotify](https://huggingface.co/spaces/riyadahmadov/Recommendation_System_in_Spotify)
 
